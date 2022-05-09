@@ -4,13 +4,14 @@ Hi 👋 My name is Ujjwal Kirti
 Frontend Developer
 ------------------
 
-I am interested in field of frontend web development. I have a thorough understanding of HTML, CSS and JavaScript as well as how to use them effectively with React JavaScript library to develop elegant web applications. I always try my best to write code that is well documented and maintainable
+I am interested in field of frontend development. I have a thorough understanding of HTML, CSS and JavaScript as well as how to use them effectively with React JavaScript library to develop elegant web applications. I always try my best to write code that is well documented and maintainable.
 
 * 🌍  I'm based in Surat, India.
+* 🖥️  See my portfolio at [here.](http://ujjwalkirti.tech)
 * ✉️  You can contact me at [kirti.chargers@gmail.com](mailto:kirti.chargers@gmail.com)
 * 🚀  I'm currently working on [Helping you Through](http://help-college-real.vercel.app/)
 * 🧠  I'm learning React Native.
-* 🤝  I'm open to collaborating on Web applications
+* 🤝  I'm open to collaborating on Web applications.
 
 ### Skills
 
@@ -46,5 +47,7 @@ I am interested in field of frontend web development. I have a thorough understa
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ujjwalkirti"><img src="https://github-readme-stats.vercel.app/api?username=ujjwalkirti&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ujjwalkirti's GitHub stats" /></a>
+
+<a href="http://www.github.com/ujjwalkirti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkirti&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/ujjwalkirti"><img src="https://activity-graph.herokuapp.com/graph?username=ujjwalkirti&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
