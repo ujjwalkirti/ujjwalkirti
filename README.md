@@ -7,7 +7,6 @@ Frontend Developer
 I am interested in field of frontend development. I have a thorough understanding of HTML, CSS and JavaScript as well as how to use them effectively with React JavaScript library to develop elegant web applications. I always try my best to write code that is well documented and maintainable.
 
 * 🌍  I'm based in Surat, India.
-* 🖥️  See my portfolio at [here.](http://ujjwalkirti.tech)
 * ✉️  You can contact me at [kirti.chargers@gmail.com](mailto:kirti.chargers@gmail.com)
 * 🚀  I'm currently working on [Helping you Through](http://help-college-real.vercel.app/)
 * 🧠  I'm learning React Native.
