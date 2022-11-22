@@ -8,8 +8,8 @@ I am interested in field of frontend development. I have a thorough understandin
 
 * 🌍  I'm based in Surat, India.
 * ✉️  You can contact me at [kirti.chargers@gmail.com](mailto:kirti.chargers@gmail.com)
-* 🚀  I'm currently working on [Helping you Through](http://help-college-real.vercel.app/)
-* 🧠  I'm learning React Native.
+* 🚀  I'm currently working on [MMNCT Website](https://loving-noether-58aa95.netlify.app/)
+* 🧠  I'm learning Graphql.
 * 🤝  I'm open to collaborating on Web applications.
 
 ### Skills
