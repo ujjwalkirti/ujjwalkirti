@@ -7,8 +7,8 @@ Frontend Developer
 I am interested in field of frontend development. I have a thorough understanding of HTML, CSS and JavaScript as well as how to use them effectively with React JavaScript library to develop elegant web applications. I always try my best to write code that is well documented and maintainable.
 
 * 🌍  I'm based in Surat, India.
-* ✉️  You can contact me at [kirti.chargers@gmail.com](mailto:kirti.chargers@gmail.com)
-* 🚀  I'm currently working on [MMNCT Website](https://loving-noether-58aa95.netlify.app/)
+* ✉️  You can contact me at [ujjwalkirti2000@gmail.com](mailto:ujjwalkirti2000@gmail.com)
+* 🚀  I'm currently working on [MMNCT Website](https://www.mmnct.in/)
 * 🧠  I'm learning Graphql.
 * 🤝  I'm open to collaborating on Web applications.
 
