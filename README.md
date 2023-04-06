@@ -8,7 +8,7 @@ I am interested in field of frontend development. I have a thorough understandin
 
 * 🌍  I'm based in Surat, India.
 * ✉️  You can contact me at [ujjwalkirti2000@gmail.com](mailto:ujjwalkirti2000@gmail.com)
-* 🚀  I'm currently working on [MMNCT Website](https://www.mmnct.in/)
+* 🚀  I'm currently working on [LAC Website](https://lac-website.vercel.app/)
 * 🧠  I'm learning Graphql.
 * 🤝  I'm open to collaborating on Web applications.
 
