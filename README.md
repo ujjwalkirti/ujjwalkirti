@@ -10,7 +10,7 @@ My expertise extends to monitoring and observability, using tools like Prometheu
 * 🌍  I am currently working remotely, based in New Delhi, India.
 * ✉️  You can contact me at [ujjwalkirti2000@gmail.com](mailto:ujjwalkirti2000@gmail.com)
 * 🚀  I'm currently learning Kubernetes and related DevOps concepts.
-* 🤝  I'm open to collaborating on Web applications.
+* 🤝  I'm open to collaborating on Web applications (and DevOps job opportunities).
 
 ### Skills
 
