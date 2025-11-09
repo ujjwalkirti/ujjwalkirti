@@ -4,8 +4,10 @@ Hi 👋 My name is Ujjwal Kirti
 DevOps Engineer
 ------------------
 
-I am passionate about the field of DevOps, with a strong foundation in automating and optimizing development workflows. I have a thorough understanding of CI/CD pipelines and infrastructure as code, utilizing tools like GitHub Actions for seamless integration and deployment. I am proficient in containerization technologies such as Docker and Kubernetes, and I leverage cloud platforms to build scalable and resilient systems. 
-My expertise extends to monitoring and observability, using tools like Prometheus and Grafana to ensure system reliability and performance. I am committed to writing scripts and configurations that are well-documented and maintainable, fostering effective collaboration across development and operations teams.
+I am passionate about the field of DevOps, with a strong foundation in automating and optimizing development workflows. I have a thorough understanding of CI/CD pipelines and infrastructure as code, utilizing tools like GitHub Actions for seamless integration and deployment. <br/><br/>
+I am proficient in containerization technologies such as Docker and Kubernetes, and I leverage cloud platforms to build scalable and resilient systems. 
+My expertise extends to monitoring and observability, using tools like Prometheus and Grafana to ensure system reliability and performance. 
+<br/><br/>I am committed to writing scripts and configurations that are well-documented and maintainable, fostering effective collaboration across development and operations teams.
 
 * 🌍  I am currently working remotely, based in New Delhi, India.
 * ✉️  You can contact me at [ujjwalkirti2000@gmail.com](mailto:ujjwalkirti2000@gmail.com)
@@ -54,8 +56,8 @@ My expertise extends to monitoring and observability, using tools like Prometheu
 
 <p align="left"> 
 <a href="https://www.github.com/ujjwalkirti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="[https://www.linkedin.com/in/ujjwal-kirti/](https://www.linkedin.com/in/ujjwal-kirti/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/kirti_ujjwal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/ujjwal-kirti-593935365/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></a> 
+
 
 ### Badges
 
