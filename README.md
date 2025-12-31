@@ -1,7 +1,7 @@
 Hi 👋 My name is Ujjwal Kirti
 =============================
 
-DevOps Engineer
+Software Engineer
 ------------------
 
 I am passionate about the field of DevOps, with a strong foundation in automating and optimizing development workflows. I have a thorough understanding of CI/CD pipelines and infrastructure as code, utilizing tools like GitHub Actions for seamless integration and deployment. <br/><br/>
